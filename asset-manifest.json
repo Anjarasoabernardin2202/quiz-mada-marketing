@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quiz-mada-marketing/static/css/main.05ea2b23.chunk.css",
+    "main.js": "/quiz-mada-marketing/static/js/main.a80ca159.chunk.js",
+    "main.js.map": "/quiz-mada-marketing/static/js/main.a80ca159.chunk.js.map",
+    "runtime-main.js": "/quiz-mada-marketing/static/js/runtime-main.a6aefece.js",
+    "runtime-main.js.map": "/quiz-mada-marketing/static/js/runtime-main.a6aefece.js.map",
+    "static/css/2.822cae94.chunk.css": "/quiz-mada-marketing/static/css/2.822cae94.chunk.css",
+    "static/js/2.5176fc1c.chunk.js": "/quiz-mada-marketing/static/js/2.5176fc1c.chunk.js",
+    "static/js/2.5176fc1c.chunk.js.map": "/quiz-mada-marketing/static/js/2.5176fc1c.chunk.js.map",
+    "index.html": "/quiz-mada-marketing/index.html",
+    "precache-manifest.c47a40feea1e33dde0acd5890e0c34e6.js": "/quiz-mada-marketing/precache-manifest.c47a40feea1e33dde0acd5890e0c34e6.js",
+    "service-worker.js": "/quiz-mada-marketing/service-worker.js",
+    "static/css/2.822cae94.chunk.css.map": "/quiz-mada-marketing/static/css/2.822cae94.chunk.css.map",
+    "static/css/main.05ea2b23.chunk.css.map": "/quiz-mada-marketing/static/css/main.05ea2b23.chunk.css.map",
+    "static/media/answer.png": "/quiz-mada-marketing/static/media/answer.f05e37d5.png",
+    "static/media/styles.scss": "/quiz-mada-marketing/static/media/background.6e55ab4f.jpg",
+    "static/media/button-sound.mp3": "/quiz-mada-marketing/static/media/button-sound.32194199.mp3",
+    "static/media/correct-answer.mp3": "/quiz-mada-marketing/static/media/correct-answer.ee6aadae.mp3",
+    "static/media/fiftyFifty.PNG": "/quiz-mada-marketing/static/media/fiftyFifty.f06f3bfe.PNG",
+    "static/media/hints.PNG": "/quiz-mada-marketing/static/media/hints.145bf217.PNG",
+    "static/media/materialdesignicons.min.css": "/quiz-mada-marketing/static/media/materialdesignicons-webfont.f5111234.ttf",
+    "static/media/options.PNG": "/quiz-mada-marketing/static/media/options.0ab14d14.PNG",
+    "static/media/wrong-answer.mp3": "/quiz-mada-marketing/static/media/wrong-answer.c7106542.mp3"
+  }
+}
