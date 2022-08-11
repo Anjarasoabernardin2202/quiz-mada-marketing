@@ -1,0 +1,244 @@
+[
+    {
+        "question": "Combien de provinces y-a-t-il au Canada ?",
+        "optionA": "15",
+        "optionB": "10",
+        "optionC": "22",
+        "optionD": "6",
+        "answer": {
+            "A": "10",
+            "B": "15",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Alberta est un province :…….",
+        "optionA": "Avec de l’eau gratuit",
+        "optionB": "Pétrolière",
+        "optionC": "La Capitale du Canada",
+        "optionD": "Minière",
+        "answer": {
+            "A": "Pétrolière",
+            "B": "15",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Quel est  la Capitale du Canada ?",
+        "optionA": "Toronto",
+        "optionB": "Ontario",
+        "optionC": "Québec",
+        "optionD": "Ottawa",
+        "answer": {
+            "A": "Ottawa",
+            "B": "15",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Nous appelons d’où ?",
+        "optionA": "1er av Quebec Chemin Charlesbourg",
+        "optionB": "150 rue Allancroft Beaconsfield (Québec)",
+        "optionC": "130 Rue du Faubourg Saint-Honoré, 75008 Paris, France",
+        "optionD": "130 King Street West,Suite 1800, Vancouver, Toronto, Ontario, M5X 1E3, Canada",
+        "answer": {
+            "A": "130 King Street West,Suite 1800, Vancouver, Toronto, Ontario, M5X 1E3, Canada",
+            "B": "15",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Les types de dossier sont :",
+        "optionA": "Famille",
+        "optionB": "Pacsé",
+        "optionC": "Simple",
+        "optionD": "Concubinage",
+        "answer": {
+            "A": "Famille",
+            "B": "Simple",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Le Nom du Premier Ministre du Canada",
+        "optionA": "Justin Trudeau",
+        "optionB": "Jean Marc Trudeau",
+        "optionC": "Julien Trudeau",
+        "optionD": "Reine Elisabeth",
+        "answer": {
+            "A": "Justin Trudeau",
+            "B": "Simple",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Quelle est l’étape à suivre pour obtenir un Visa Touristique:",
+        "optionA": "Ouverture de Dossier",
+        "optionB": "Evaluation",
+        "optionC": "Choix de programme",
+        "optionD": "Soumission au RCIC",
+        "answer": {
+            "A": "Ouverture de Dossier",
+            "B": "Simple",
+            "C": "30"
+        }
+    },
+    {
+        "question": "A partir de quel moment on a lead :",
+        "optionA": "A partir du moment où la personne nous a appelle",
+        "optionB": "A partir du moment où la personne paie  les 549€",
+        "optionC": "A partir du moment où la personne paie les 6000 €",
+        "optionD": "A partir du moment où la personne postule sur notre site",
+        "answer": {
+            "A": "A partir du moment où la personne postule sur notre site",
+            "B": "Simple",
+            "C": "30"
+        }
+    },
+  
+    {
+        "question": "Combien de programmes d’immigration compte – il ?",
+        "optionA": "85 environ",
+        "optionB": "70 environ",
+        "optionC": "100 environ",
+        "optionD": "80 et plus",
+        "answer": {
+            "A": "100 environ",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Quel type de programme correspond à un candidat qui souhaite travailler au Canada pour une durée de 2ans",
+        "optionA": "AVE",
+        "optionB": "PVT",
+        "optionC": "PCP",
+        "optionD": "ENTRÉ EXPRESS",
+        "answer": {
+            "A": "PVT",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Un candidat de nationalité Belge, souhaite immigrer au Canada, avec sa fille. Il demande au conseiller les procédures à suivres",
+        "optionA": "Ouverture du dossier/ Choix Programme / Soumission RCIC",
+        "optionB": "Ouverture de Visa / Paiement des 799 €",
+        "optionC": "Ouverture du dossier / Paiement des 549€ / Choix Programme / Soumission à la RCIC",
+        "optionD": "Il a juste besoin d’un AVE",
+        "answer": {
+            "A": "Ouverture du dossier/ Choix Programme / Soumission RCIC",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Que signifie RCIC ?",
+        "optionA": "Royal Canadian Infantry Corps",
+        "optionB": "Régistre des consultants en Immigration au Canada",
+        "optionC": "Registre des conseillers en Immigration au Canada",
+        "optionD": "Centre régional d'Innovation et de commercialisation",
+        "answer": {
+            "A": "Régistre des consultants en Immigration au Canada",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Que faut -il faire suite au paiement des 549€ ?",
+        "optionA": "Demander au client de se connecter à la plateforme d’immigration",
+        "optionB": "Demander au client de patienter pour le rappel de l’expert sous 48h ",
+        "optionC": "Demander au client de se connecter sur notre site",
+        "optionD": "Demander au client de patienter pour qu’on ait le résultat de la pré-évaluation.",
+        "answer": {
+            "A": "Demander au client de patienter pour le rappel de l’expert sous 48h ",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Quand est-ce qu’il y a soumission de dossier?",
+        "optionA": "Une fois inscrite sur le site",
+        "optionB": "Une fois que le dossier soit ouvert ",
+        "optionC": "Une fois qu’on est jugé admissible pour l’immigration avec tous les documents en règle",
+        "optionD": "Une fois qualifiable pour l’évalutaion",
+        "answer": {
+            "A": "Une fois qu’on est jugé admissible pour l’immigration avec tous les documents en règle",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Pour avoir une Visa Touristique, il faut compter :",
+        "optionA": "6 mois",
+        "optionB": "12 mois",
+        "optionC": "4 mois",
+        "optionD": "48h",
+        "answer": {
+            "A": "4 mois",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Un candidat ayant obtenu un visa touristique, peut voyager au Canada pendant :",
+        "optionA": "6 mois consécutifs durant 5 ans",
+        "optionB": "5 ans durant la validité du Visa",
+        "optionC": "2 ans durant la validité du Visa",
+        "optionD": "6 mois chaque année durant la validité de son Visa ",
+        "answer": {
+            "A": "6 mois chaque année durant la validité de son Visa ",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Quel organisme s’occupe de faire le relais avec le gouvernement canadien?",
+        "optionA": "EIC",
+        "optionB": "RCIC",
+        "optionC": "PVT",
+        "optionD": "AVE",
+        "answer": {
+            "A": "RCIC",
+            "B": "80 et plus",
+            "C": "30"
+        }
+    },
+   
+    {
+        "question": "Suite à l’ouverture de dossier, le candidat doit passer quelques tests :",
+        "optionA": "Test Santé ",
+        "optionB": "Test Langue",
+        "optionC": "Test d’éligibilité",
+        "optionD": "Test Connaissance dur le Canada",
+        "answer": {
+            "A": "Test Santé ",
+            "B": "Test Langue",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Il est nécessaire de payer les 549€ :",
+        "optionA": "Avant l’ouverture du dossier",
+        "optionB": "Après l’ouverture du dossier",
+        "optionC": "Durant la procédure",
+        "optionD": "Avant et Après l’ouverture du dossier ",
+        "answer": {
+            "A": "Avant l’ouverture du dossier",
+            "B": "Avant et Après l’ouverture du dossier ",
+            "C": "30"
+        }
+    },
+    {
+        "question": "Un réfugié politique demande un visa pour immigrer, il nous demande ce qu’il en ait :",
+        "optionA": "il ne peut pas immigrer",
+        "optionB": "Il peut à condition qu’il ait un passeport de son pays natal en moins de 6mois ",
+        "optionC": "Il peut s’il a une carte de séjour",
+        "optionD": "Il peut immigrer comme tout le monde ",
+        "answer": {
+            "A": "Il peut à condition qu’il ait un passeport de son pays natal en moins de 6mois ",
+            "B": "Avant et Après l’ouverture du dossier ",
+            "C": "30"
+        }
+    }
+]
